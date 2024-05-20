@@ -1,0 +1,60 @@
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe.config
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.pdb
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.AssemblyReference.cache
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.arabalar.resources
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.marka.resources
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.Properties.Resources.resources
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.yonetici.resources
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.GenerateResource.cache
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.CoreCompileInputs.cache
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.exe
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.pdb
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.baslangic.resources
+C:\Users\OMER\source\repos\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.menu.resources
+D:\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe.config
+D:\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe
+D:\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.pdb
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.AssemblyReference.cache
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.SuggestedBindingRedirects.cache
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.arabalar.resources
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.baslangic.resources
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.menu.resources
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.marka.resources
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.Properties.Resources.resources
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.yonetici.resources
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.GenerateResource.cache
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.CoreCompileInputs.cache
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.exe
+D:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.pdb
+E:\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe.config
+E:\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe
+E:\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.pdb
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.AssemblyReference.cache
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.SuggestedBindingRedirects.cache
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.arabalar.resources
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.baslangic.resources
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.menu.resources
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.marka.resources
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.Properties.Resources.resources
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.yonetici.resources
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.GenerateResource.cache
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.CoreCompileInputs.cache
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.exe
+E:\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.pdb
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe.config
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.exe
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\bin\Debug\Faruk_odev_proje.pdb
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.AssemblyReference.cache
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.SuggestedBindingRedirects.cache
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.arabalar.resources
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.baslangic.resources
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.menu.resources
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.marka.resources
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.Properties.Resources.resources
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.yonetici.resources
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.GenerateResource.cache
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.csproj.CoreCompileInputs.cache
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.exe
+D:\gelecek ve geçmiş\Faruk_odev_proje\Faruk_odev_proje\obj\Debug\Faruk_odev_proje.pdb
